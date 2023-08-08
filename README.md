@@ -16,7 +16,7 @@ Eager to learn and excel in new technologies. Skilled in transforming designs an
 ## Database
 *	MySQL, PostgreSQL, NoSQL, MongoDB, Firestore, SQLite
 *	TypeORM, Prisma, Mongoose
-Testing
+## Testing
 *	Jest, Mocha, Cypress, Enzyme
 ## SDLC
 *	Git, Agile, Jira, Trello
